@@ -7,3 +7,20 @@ Basics
 Задание 2
 
 Вывести Hello Java и Hello Belarus. Использовать метод из задания 1, импортировать двумя способами.
+
+Types
+
+Задание 3
+
+Написать код, который выведет значения переменных на экран:
+
+byte b = 0x55;
+short s = 0x55ff;
+int i = 1000000;
+long l = 0xffffffffL;
+char c = 'a' ;
+float f = .25f;
+double d = .00001234;
+boolean bool = true;
+
+Использовать 1 метод и 1 System.out.println().

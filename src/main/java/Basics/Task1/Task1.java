@@ -2,7 +2,7 @@ package Basics.Task1;
 
 /**Задание 1
 
-Вывести HelloWorld. Использовать метод.
+ Вывести HelloWorld. Использовать метод.
  */
 
 public class Task1 {
